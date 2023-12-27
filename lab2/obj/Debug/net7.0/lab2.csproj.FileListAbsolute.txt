@@ -1,0 +1,17 @@
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\bin\Debug\net7.0\lab2.exe
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\bin\Debug\net7.0\lab2.deps.json
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\bin\Debug\net7.0\lab2.dll
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\bin\Debug\net7.0\lab2.pdb
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\bin\Debug\net7.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\lab2.csproj.CopyComplete
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\lab2.dll
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\refint\lab2.dll
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\lab2.pdb
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab2\obj\Debug\net7.0\ref\lab2.dll

@@ -1,0 +1,17 @@
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\bin\Debug\net7.0\lab1.exe
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\bin\Debug\net7.0\lab1.deps.json
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\bin\Debug\net7.0\lab1.runtimeconfig.json
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\bin\Debug\net7.0\lab1.dll
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\bin\Debug\net7.0\lab1.pdb
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\lab1.AssemblyInfoInputs.cache
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\lab1.AssemblyInfo.cs
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\lab1.csproj.CoreCompileInputs.cache
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\lab1.dll
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\refint\lab1.dll
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\lab1.pdb
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\lab1.genruntimeconfig.cache
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\ref\lab1.dll
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\bin\Debug\net7.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\lab1.csproj.AssemblyReference.cache
+D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab1\obj\Debug\net7.0\lab1.csproj.CopyComplete

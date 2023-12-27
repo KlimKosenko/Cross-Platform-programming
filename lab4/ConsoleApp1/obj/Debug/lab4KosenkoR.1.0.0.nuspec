@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>lab4KosenkoR</id>
+    <version>1.0.0</version>
+    <title>Lab4Crossplatform</title>
+    <authors>Kosenko Klym</authors>
+    <description>Package Description</description>
+    <copyright>Kosenko Klym</copyright>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab4\ConsoleApp1\obj\DotnetToolSettings.xml" target="tools\net7.0\any\DotnetToolSettings.xml" />
+    <file src="D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab4\ConsoleApp1\bin\Debug\net7.0\publish\ConsoleApp1.dll" target="tools\net7.0\any\ConsoleApp1.dll" />
+    <file src="D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab4\ConsoleApp1\bin\Debug\net7.0\publish\ConsoleApp1.deps.json" target="tools\net7.0\any\ConsoleApp1.deps.json" />
+    <file src="D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab4\ConsoleApp1\bin\Debug\net7.0\publish\ConsoleApp1.runtimeconfig.json" target="tools\net7.0\any\ConsoleApp1.runtimeconfig.json" />
+    <file src="D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab4\ConsoleApp1\bin\Debug\net7.0\publish\ConsoleApp1.pdb" target="tools\net7.0\any\ConsoleApp1.pdb" />
+    <file src="D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab4\ConsoleApp1\bin\Debug\net7.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net7.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab4\ConsoleApp1\bin\Debug\net7.0\publish\ClassLibrary1.dll" target="tools\net7.0\any\ClassLibrary1.dll" />
+    <file src="D:\Університет\4курс\Кросплатформне програмування\Labs\Cross-Platform-programming\lab4\ConsoleApp1\bin\Debug\net7.0\publish\ClassLibrary1.pdb" target="tools\net7.0\any\ClassLibrary1.pdb" />
+  </files>
+</package>

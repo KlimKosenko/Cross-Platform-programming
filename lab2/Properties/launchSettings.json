@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab2": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"D:\\Університет\\4курс\\Кросплатформне програмування\\Labs\\Cross-Platform-programming\\lab2\\Files\\INPUT.txt\" -o \"D:\\Університет\\4курс\\Кросплатформне програмування\\Labs\\Cross-Platform-programming\\lab2\\Files\\OUTPUT.txt\""
+    }
+  }
+}

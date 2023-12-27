@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pWDAfBJyDQiZlL2M9xRW+nAhMP/30j5Vu2QYzIp2p+kcAl1rAbAkR9KVa0FvxrUTXMuh6ylTGzI/6B68ml0ww==",
+  "success": true,
+  "projectFilePath": "D:\\Університет\\4курс\\Кросплатформне програмування\\Labs\\Cross-Platform-programming\\lab3\\lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosen\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.1.0\\mcmaster.extensions.commandlineutils.4.1.0.nupkg.sha512",
+    "C:\\Users\\kosen\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
