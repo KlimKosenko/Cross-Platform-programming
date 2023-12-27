@@ -1,2 +1,4 @@
 ﻿.\bin\Debug\net7.0\
+ConsoleApp1 run First  -I "input0.txt" -o "output0.txt"
 ConsoleApp1 run Second  -I "input.txt" -o "output.txt"
+ConsoleApp1 run Third  -I "input1.txt" -o "output1.txt"
